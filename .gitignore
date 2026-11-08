@@ -1,0 +1,11 @@
+/build/
+/seqan3/
+/genomes/
+/testcases/
+/targeted_testcases/
+/results/*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/.vscode/
